@@ -1,4 +1,4 @@
-# WaferDefectClasscification(By 2D-CNN, Keras)
+# WaferDefectClasscification
 ## 산업공학종합설계 프로젝트
 
 ![image](https://user-images.githubusercontent.com/88662101/230546089-14fb8793-fd27-4062-946f-8daa17417dc7.png)  
@@ -62,7 +62,7 @@
 <br>
 <br>
 
-# Bcak-End Dev   
+# Back-End Dev   
 
 ### Skill  
 - Flask로 API를 생성 및 Ngrok 배포  
